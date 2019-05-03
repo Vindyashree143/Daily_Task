@@ -1,0 +1,21 @@
+body
+{
+	background-color: pink;
+}
+#logo{
+	background-color: pink;
+	height: 170px;
+    width: 100%;
+   
+}
+#list
+{
+	background-color: white;
+}
+#info{
+	background-color: pink;
+}
+#image{
+background-color: black;
+padding: 15px;
+}

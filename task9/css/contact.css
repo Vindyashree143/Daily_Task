@@ -1,0 +1,28 @@
+#list1{
+	background-color: pink;
+
+}
+#list2{
+	background-color: pink;
+
+}
+#first
+{
+	background-color: rgb(0,255,0);
+}
+#last
+{
+	background-color: rgb(0,200,0);
+}
+#email
+{
+	background-color: rgb(0,255,0);
+}
+
+textarea{
+	margin-left: 100px;
+}
+button{
+		background-color: rgb(0,255,0);
+	    margin-left: 150px;
+}
