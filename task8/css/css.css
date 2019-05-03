@@ -1,0 +1,28 @@
+:root
+{
+	--color: rgb(255,255,255);
+}
+#sign
+{
+	background-color: rgb(0,255,0);
+}
+#lgin
+{
+	background-color: rgb(0,200,0);
+}
+form
+{
+	background-color: black;
+	    padding: 75px;
+	        width: 389px;
+}
+#color
+{
+	color: var(--color);
+	text-align: center;	
+}
+.root4{
+	color: var(--color);
+	background-color: rgb(0,255,0);
+	text-align: center;
+}

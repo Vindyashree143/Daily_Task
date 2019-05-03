@@ -1,0 +1,18 @@
+div
+{
+	/*background-color: pink;*/
+
+}
+#search
+{
+border-radius: 50px 50px 50px 50px;
+    height: 37px;
+    width: 324px
+}
+#icon{
+border:solid;
+	border-radius: 40px 20px 20px 30px;
+    padding: 10px;
+   
+
+}
