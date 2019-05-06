@@ -1,0 +1,40 @@
+ #solid
+ {
+ 	background-color: #7c7270;
+ 	color: white;
+ 	border: inset;
+ 	border-color: ;
+ 	border-radius: 12;
+ 	padding: 10px 10px 10px 10px;
+ 	margin: 25px 25px 25px 25px;
+ }
+
+ #home
+ {
+ 	padding-right: 10px;
+ 	
+ }
+ #footer
+ {
+ 	border: inset;
+ 	align-content: center;
+ 	margin-top:30px;
+ 	padding: 10px 10px 10px 10px; 
+ }
+ #img
+ {
+ 	padding-left: 850px;
+ }
+ #imgf
+ {
+ 	padding-left: 550px;
+ }
+ body
+ {
+ 	background-color: #99220d;
+ }
+ #form
+ {
+ 	border:solid;
+
+ }

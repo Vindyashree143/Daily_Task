@@ -1,0 +1,56 @@
+ p
+ {
+ 	border: solid;
+ 	border-width: 1px;
+ 	color: white
+ }
+ 
+  #solid
+ {
+ 	background-color: #7c7270;
+ 	color: white;
+ 	border: inset;
+ 	border-color: ;
+ 	border-radius: 12;
+ 	padding: 10px 10px 10px 10px;
+ 	margin: 25px 25px 25px 25px;
+ }
+
+ #home
+ {
+ 	padding-right: 10px;
+ 	
+ }
+ #footer
+ {
+ 	border: inset;
+ 	align-content: center;
+ 	margin-top:300px;
+ 	padding: 10px 10px 10px 10px; 
+ }
+ #img
+ {
+ 	padding-left: 850px;
+ }
+ #imgf
+ {
+ 	padding-left: 550px;
+ }
+ body
+ {
+ 	background-color: #99220d;
+ }
+ #bodyimage
+ {
+ 	border: solid;
+ 	border-width: 1px;
+ 	margin-left:10px ;
+ }
+ #bodyp
+ {
+ 	border: solid;
+ 	border-width: 1px;
+ 	margin-left:350px ;
+ 	padding: 10px 30px 10px;
+ 	margin-top: 100px;
+ }
