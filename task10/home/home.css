@@ -1,0 +1,71 @@
+body
+{
+	background-color: red;
+}
+.flex-container
+{
+	display:inline-flex;
+	background-color: white;
+	flex-direction: column;
+	width: 330px;
+	height: 500px;
+	margin-left: 442px;
+
+
+}
+div
+{
+	background-color: white;
+	padding: 10px;
+	margin: 10px;
+}
+
+img
+{
+	border-radius: 50px;
+	margin-left: 118px;
+}
+h2
+{
+	color: gray;
+	margin-left: 92px;
+}
+h3
+{
+	color: gray;
+	margin-left: 92px;
+}
+
+.home.active
+{
+	background-color: gray;
+	color: blue;
+}
+#about:hover
+{
+	background-color: gray;
+}
+#photo:hover
+{
+	background-color: gray;
+}
+#contact:hover
+{
+	background-color: gray;
+}
+#hm
+{
+	margin-left: 8px;
+}
+#ab
+{
+	margin-left: 12px;
+}
+#pt
+{
+	    margin-left: 7px;
+}
+#cnt
+{
+	margin-left: 8px;
+}
