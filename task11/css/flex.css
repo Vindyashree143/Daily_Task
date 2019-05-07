@@ -1,0 +1,18 @@
+.form{
+  background-color: orange;
+  display: inline-flex;
+   padding: 37px;
+     justify-content: flex-start;
+    font-size: 20px;
+}
+.taxi{
+      margin-left: 96px;
+      flex-direction: row;
+      justify-content: flex-end;
+}
+#name{
+      padding-left: 57px;
+}
+#pic{
+    padding-left: 57px;
+}
