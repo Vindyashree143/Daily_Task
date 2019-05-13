@@ -1,0 +1,67 @@
+.gridbox
+{
+	display:grid;
+	grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+	grid-template-rows: 100px 100px 100px 100px 100px 100px ;
+	grid-gap: 10px;
+
+}
+.gridbox >div
+{
+
+	background-color: #515151;
+	padding: 20px;
+}
+.item1
+{
+	grid-column: 1/ span 4;
+}
+.item3
+{
+	grid-column:span 2;
+}
+.item2
+{
+	grid-row-end: span 4;
+}
+.item4
+{
+	grid-row-end: span 4;
+}
+.item7
+{
+	grid-row:span 2;
+}
+.item8
+{
+	grid-column: span 2; 
+}
+.item11
+{
+	grid-column: span 2;
+    grid-row:span 2;
+}
+.item12
+{
+	grid-row:span 4;
+}
+.item13
+{
+	grid-column: span 4;
+}
+.item14
+{
+	grid-row:span 2;
+}
+.item15
+{
+	grid-column: span 2;
+}
+.item16
+{
+	grid-column: span 4;
+}
+.item17
+{
+	grid-row: span 2;
+} 
