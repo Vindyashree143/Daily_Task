@@ -1,0 +1,51 @@
+.gridclass{
+	display: grid;
+	grid-template-columns: 400px auto auto auto;
+	grid-gap: 10px;
+}
+.gridclass > div{
+padding: 10px;
+}
+.container2{
+	display: grid;
+	grid-template-columns: 200px 200px auto auto auto auto auto auto auto auto;
+	grid-template-rows:auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+	grid-gap: 10px;
+}
+.container2 > div{
+padding: 10px;
+font-weight: 10px;
+}
+.image{
+	grid-row: span 5;
+	background-color: white;
+}
+.item{
+	grid-row: span 10;
+	background-color: rgb(207, 244, 161);
+
+}
+.item1{
+	grid-column-start: 4;
+	background-color: rgb(207, 244, 161);
+}
+.item2{
+	grid-column-start: 10;
+	background-color: green;
+}
+.item3{
+	grid-column-start: 6;
+	background-color: green;
+}
+p{
+	font-size: 10px;
+}
+.color{
+background-color: rgb(158, 224, 136);
+}
+.color1{
+background-color: rgb(207, 244, 161);
+}
+.color2{
+	background-color:rgb(124, 157, 226); 
+}
